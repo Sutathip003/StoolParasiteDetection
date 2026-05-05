@@ -1,0 +1,12 @@
+Dataset: Chula-ParasiteEgg-11 (ICIP 2022 Challenge)
+License: CC BY 4.0
+
+
+Training → Chula-ParasiteEgg-11
+Validation → ParasitoBank (real stool)
+Testing → Your own lab images (important!)
+
+
+# Source Data
+https://zenodo.org/records/10437395
+https://data.mendeley.com/datasets/725hpzpwzf/1

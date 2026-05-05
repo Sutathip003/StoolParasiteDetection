@@ -1,0 +1,18 @@
+Dataset references for stool parasite detection.
+
+1. Low-Cost Microscopic Images for Parasitic Egg Detection
+   Source: Zenodo
+   URL: https://zenodo.org/records/10437395
+   License: CC BY 4.0
+   Notes: Open access dataset of stool parasite egg images captured by microscope.
+
+2. ParasitoBank: Dataset of helminths and protozoa in coprology samples
+   Source: Mendeley Data
+   URL: https://data.mendeley.com/datasets/725hpzpwzf/1
+   License: CC BY 4.0
+   Notes: COCO-style annotations for microscope fecal images.
+
+Legal note:
+- Both datasets are released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+- The license allows reuse for research and development, provided attribution is given.
+- Confirm the dataset page for any additional terms before commercial redistribution.

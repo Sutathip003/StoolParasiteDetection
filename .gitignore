@@ -1,0 +1,19 @@
+# Ignore agent control files
+AGENTS.md
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Data outputs
+data/processed/
+data/versions/
+
+# IDE
+.vscode/
+.idea/
